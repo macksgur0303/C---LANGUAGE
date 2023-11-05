@@ -1,0 +1,15 @@
+error1 
+Description	Resource	Path	Location	Type
+make: *** [makefile:80: Blinky_LED_1_KIT_TC275_LK.elf] Error 1	Blinky_LED_1_KIT_TC275_LK		 	C/C++ Problem
+
+error2
+Description	Resource	Path	Location	Type
+ltc F019: unrecoverable error: fatal link error	Blinky_LED_1_KIT_TC275_LK		 	C/C++ Problem
+
+error3
+Description	Resource	Path	Location	Type
+ltc E106: unresolved external: IfxAsclin_Asc_write8 - (Cpu0_Main.o)	Blinky_LED_1_KIT_TC275_LK		 	C/C++ Problem
+
+error4
+Description	Resource	Path	Location	Type
+ltc E106: unresolved external: IfxAsclin_Asc_read8 - (Cpu0_Main.o)	Blinky_LED_1_KIT_TC275_LK		 	C/C++ Problem
